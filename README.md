@@ -1,4 +1,4 @@
-# Adobe-India-Hackathon25-Round2_Submission-Brahmos
+# Adobe-India-Hackathon25-Round2_Submission
 This is the submission repository for Round 2 of Adobe India Hackathon 2025,  Connecting the Dots Challenge, It has submission for Round 2A and 2B
 
 # Adobe India Hackathon 2025 - "Connecting the Dots" Challenge
